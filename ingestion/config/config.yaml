@@ -1,0 +1,11 @@
+aws:
+  bucket_name: "vky-lh26"      # replace with your actual bucket
+  raw_prefix: "raw/orders/"
+  region: "ap-south-1"                 # change if your bucket is in a different region
+
+data:
+  num_customers: 500
+  num_products: 100
+  num_orders: 5000
+  start_date: "2024-01-01"
+  end_date: "2024-12-31"

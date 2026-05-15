@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Price,StockQuantity,Supplier
+PROD_0001,Embrace 24/7 Bandwidth,Electronics,1348.68,398,"Bhakta, Dhar and Iyer"
+PROD_0002,Redefine Plug-And-Play Web-Readiness,Beauty,3684.29,309,"Dhillon, Kumar and Chowdhury"
+PROD_0003,Expedite Frictionless Channels,Books,₹6821.71,190,Bhatt Inc
+PROD_0004,Benchmark Efficient Initiatives,Grocery,7653.54,271,Mohan and Sons
+PROD_0005,Deploy Cross-Media Systems,Beauty,₹4039.54,127,Mallick and Sons
+PROD_0006,Integrate Rich Partnerships,Clothing,355.54,255,"Kaul, Mitra and Oommen"
+PROD_0007,Synergize Turn-Key Models,Toys,9143.07,134,Khosla PLC
+PROD_0008,Reinvent Magnetic Users,Sports,7068.97,313,"Jani, Singhal and Chadha"
+PROD_0009,Iterate Front-End Portals,Sports,₹6969.41,102,"Tiwari, Zachariah and Kamdar"
+PROD_0010,Incubate Granular Paradigms,Clothing,1442.71,231,"Gara, Deol and Mody"
+PROD_0011,Transition Killer Models,Books,₹8995.92,44,Bala-Chopra
+PROD_0012,Whiteboard Enterprise Content,Beauty,6710.61,281,"Venkatesh, Saha and Seth"
+PROD_0013,Disintermediate Scalable Partnerships,Sports,8923.18,364,Khalsa-Raman
+PROD_0014,Mesh Impactful Relationships,Books,7956.59,62,Pandya Group
+PROD_0015,E-Enable Open-Source Applications,Home & Kitchen,7940.45,404,Merchant-Wali
+PROD_0016,Streamline 24/365 E-Markets,Grocery,₹359.21,239,Lall LLC
+PROD_0017,Optimize Granular Experiences,Books,6157.29,33,"Tella, Rama and Gade"
+PROD_0018,Engage One-To-One Convergence,Sports,₹4040.78,269,"Tella, Sekhon and Prakash"
+PROD_0019,E-Enable Impactful Architectures,Toys,7713.73,64,"Barad, Naik and Khosla"
+PROD_0020,Aggregate Robust Partnerships,Beauty,₹6458.15,238,"Bhargava, Sura and Kuruvilla"
+PROD_0021,Deploy Proactive Applications,Beauty,1369.51,393,Char-Dara
+PROD_0022,Visualize Next-Generation Functionalities,Books,4381.92,425,Chacko Inc
+PROD_0023,Target Vertical Platforms,Clothing,₹5228.21,84,"Doshi, Jhaveri and Lata"
+PROD_0024,Syndicate Sticky Initiatives,Books,3293.34,177,Modi-Kanda
+PROD_0025,Morph Revolutionary Content,Sports,₹8473.74,100,Prakash-Oza
+PROD_0026,Strategize 24/7 Synergies,Sports,₹1338.19,314,Dayal PLC
+PROD_0027,Innovate Scalable Partnerships,Clothing,5074.47,303,Sankaran-Dhawan
+PROD_0028,Target Strategic Content,Books,₹1793.89,431,Shroff-Sridhar
+PROD_0029,Expedite Sticky E-Tailers,Electronics,8268.84,41,"Deshmukh, Hora and Rout"
+PROD_0030,Productize Wireless Partnerships,Electronics,₹9489.61,333,"Bawa, Memon and Sem"
+PROD_0031,Exploit 24/365 Paradigms,Home & Kitchen,₹7691.89,316,Dua and Sons
+PROD_0032,Exploit Frictionless Metrics,Electronics,₹5029.58,328,Kanda-Bedi
+PROD_0033,Revolutionize Synergistic Interfaces,Sports,₹4880.15,152,"Om, Bumb and Edwin"
+PROD_0034,Utilize Visionary Roi,Grocery,821.43,80,Barad-Bir
+PROD_0035,Embrace Collaborative Web-Readiness,Grocery,₹4213.66,104,Sekhon and Sons
+PROD_0036,Cultivate Plug-And-Play E-Markets,Beauty,₹6104.94,441,Mitra Ltd
+PROD_0037,Re-Intermediate Distributed Functionalities,Beauty,₹7367.58,499,Biswas-Sharma
+PROD_0038,Incentivize Turn-Key E-Commerce,Toys,₹1393.58,263,Shankar-Chadha
+PROD_0039,Integrate User-Centric Vortals,Clothing,₹3258.25,62,Sibal and Sons
+PROD_0040,Benchmark Back-End Systems,Sports,4550.0,49,Dada-Gill
+PROD_0041,Facilitate Seamless E-Services,Electronics,₹2972.1,442,Sood-Sharma
+PROD_0042,Implement World-Class Supply-Chains,Toys,2556.88,416,Kaul-Randhawa
+PROD_0043,Integrate Back-End Experiences,Beauty,₹9343.14,97,Chowdhury-Sama
+PROD_0044,Cultivate 24/7 Web-Readiness,Books,₹5031.83,255,Chandran Ltd
+PROD_0045,Synergize Sticky Functionalities,Sports,5022.97,483,Dhawan LLC
+PROD_0046,Evolve Synergistic Metrics,Toys,5102.9,110,Sahota-Srinivasan
+PROD_0047,Leverage Turn-Key Action-Items,Beauty,₹580.72,253,Venkatesh PLC
+PROD_0048,Generate Rich Niches,Grocery,2927.91,433,Vora Ltd
+PROD_0049,Iterate E-Business E-Markets,Clothing,₹4365.18,372,Jaggi Inc
+PROD_0050,Deliver Integrated Initiatives,Beauty,₹7661.18,23,Sachar and Sons
+PROD_0051,Iterate Proactive Mindshare,Toys,605.46,185,Apte PLC
+PROD_0052,Synergize Interactive E-Markets,Sports,₹826.96,391,Pathak LLC
+PROD_0053,Expedite Best-Of-Breed Systems,Sports,8269.58,65,"Rajan, Murty and Bhattacharyya"
+PROD_0054,Aggregate Synergistic Convergence,Clothing,₹3998.65,285,"Bhatnagar, Parmer and Modi"
+PROD_0055,Aggregate Plug-And-Play Web-Readiness,Beauty,7573.16,308,"Ramaswamy, Doshi and Bajwa"
+PROD_0056,Target Bleeding-Edge Systems,Toys,5049.77,19,Pingle Group
+PROD_0057,Streamline Rich Interfaces,Books,₹7163.56,265,Ramaswamy LLC
+PROD_0058,Brand E-Business Initiatives,Grocery,1573.51,167,"Atwal, Zachariah and Chauhan"
+PROD_0059,Harness Compelling Experiences,Beauty,₹1707.77,303,Peri-Majumdar
+PROD_0060,Maximize Clicks-And-Mortar Functionalities,Beauty,₹5121.42,362,"Misra, Reddy and Borde"
+PROD_0061,Empower Extensible Niches,Sports,4800.44,188,Ramaswamy Inc
+PROD_0062,Cultivate Granular Users,Beauty,₹6769.68,298,Bath-Sinha
+PROD_0063,Deliver Granular Applications,Sports,7986.87,305,Nagy Ltd
+PROD_0064,Transition Compelling E-Tailers,Grocery,2727.75,369,Sahni and Sons
+PROD_0065,Synergize Front-End E-Business,Electronics,5875.88,268,"Parmer, Randhawa and Goel"
+PROD_0066,Exploit Web-Enabled E-Commerce,Toys,1561.98,16,Banerjee-Sha
+PROD_0067,Expedite Holistic Bandwidth,Clothing,₹1987.76,160,Sridhar PLC
+PROD_0068,Redefine Vertical E-Tailers,Toys,1598.17,210,"Bhargava, Walla and Lad"
+PROD_0069,Whiteboard Impactful Bandwidth,Grocery,8739.9,361,Aggarwal-Bhat
+PROD_0070,Whiteboard Back-End Niches,Books,₹5233.96,339,Dutta-Kanda
+PROD_0071,Deploy Real-Time Models,Grocery,₹5301.22,489,Madan-Natt
+PROD_0072,Harness Enterprise Systems,Books,₹4649.67,279,Iyengar Inc
+PROD_0073,Extend Visionary Metrics,Beauty,₹6790.1,312,"Babu, Minhas and Soman"
+PROD_0074,Extend 24/7 Portals,Grocery,2002.42,142,Dass LLC
+PROD_0075,Facilitate Scalable Schemas,Sports,₹2325.18,394,"Hora, Barad and Shankar"
+PROD_0076,Enhance B2C Functionalities,Sports,₹7077.52,162,Mammen PLC
+PROD_0077,Maximize Sticky Interfaces,Grocery,₹3552.15,147,Rau Inc
+PROD_0078,Integrate Impactful E-Services,Clothing,₹5776.42,458,Goel LLC
+PROD_0079,Iterate Innovative E-Business,Toys,8200.94,148,Borra-Banerjee
+PROD_0080,Maximize Leading-Edge Action-Items,Electronics,2946.54,177,Mane Ltd
+PROD_0081,Whiteboard Holistic Action-Items,Grocery,₹6593.12,109,Shukla-Hayer
+PROD_0082,Disintermediate Plug-And-Play Action-Items,Home & Kitchen,₹8295.72,477,Narain-Chaudry
+PROD_0083,Embrace Virtual Content,Sports,1458.0,124,"Sant, Pillai and Pau"
+PROD_0084,Repurpose Sticky Experiences,Electronics,6730.36,326,Dhaliwal-Hayer
+PROD_0085,Exploit B2B Mindshare,Home & Kitchen,₹618.66,169,Sarraf-Doctor
+PROD_0086,Scale Plug-And-Play Synergies,Grocery,1094.39,2,"Kar, Sant and Zachariah"
+PROD_0087,Synergize Visionary Content,Books,₹4127.38,244,Gala-Khatri
+PROD_0088,Benchmark Bricks-And-Clicks Convergence,Home & Kitchen,₹7582.52,164,Divan and Sons
+PROD_0089,Benchmark Cross-Platform Synergies,Sports,6493.39,333,Narang-Ratta
+PROD_0090,Disintermediate Extensible E-Business,Home & Kitchen,5397.01,467,"Rajan, Sahni and Bhardwaj"
+PROD_0091,Streamline Seamless Content,Books,4236.06,478,"Vaidya, Verma and Oza"
+PROD_0092,Visualize Scalable Initiatives,Electronics,₹9971.0,403,"Patel, Choudhry and Kurian"
+PROD_0093,Scale User-Centric E-Commerce,Grocery,₹1943.49,448,"Gola, Wali and Kar"
+PROD_0094,Leverage Clicks-And-Mortar Technologies,Electronics,190.74,475,Dayal LLC
+PROD_0095,Leverage Bricks-And-Clicks E-Tailers,Beauty,₹2916.16,455,"Tak, Chaudhari and Kar"
+PROD_0096,Envisioneer Value-Added Functionalities,Books,₹8524.49,139,Bhat-Sridhar
+PROD_0097,Envisioneer Best-Of-Breed Convergence,Home & Kitchen,₹8106.26,83,Sandhu and Sons
+PROD_0098,Enhance Value-Added Applications,Grocery,6517.02,7,Soman-Narang
+PROD_0099,Exploit Proactive Bandwidth,Beauty,7927.6,89,Prasad-Anand
+PROD_0100,Implement Web-Enabled Applications,Toys,₹8286.2,44,Choudhry PLC
