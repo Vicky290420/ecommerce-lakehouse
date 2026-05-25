@@ -1,0 +1,20 @@
+-- Create database and schemas
+CREATE DATABASE IF NOT EXISTS ecommerce_db;
+
+USE DATABASE ecommerce_db;
+
+CREATE SCHEMA IF NOT EXISTS raw;      
+CREATE SCHEMA IF NOT EXISTS staging;  
+CREATE SCHEMA IF NOT EXISTS marts;    
+
+-- Create warehouse
+CREATE WAREHOUSE IF NOT EXISTS compute_wh
+  WITH WAREHOUSE_SIZE = 'X-SMALL'
+       AUTO_SUSPEND = 60
+       AUTO_RESUME = TRUE
+       INITIALLY_SUSPENDED = TRUE;
+
+USE WAREHOUSE compute_wh;
+
+SHOW DATABASES;
+SHOW SCHEMAS IN DATABASE ecommerce_db;
