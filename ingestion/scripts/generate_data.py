@@ -4,7 +4,7 @@ from faker import Faker
 from datetime import datetime
 import random
 import os
-import yaml
+import yaml # pyright: ignore[reportMissingModuleSource]
 
 fake = Faker('en_IN')
 random.seed(42)

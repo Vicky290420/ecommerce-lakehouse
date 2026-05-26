@@ -1,0 +1,59 @@
+[0m16:49:01.712488 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000187162578C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001871975D1D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001871975D6D0>]}
+
+
+============================== 16:49:01.720574 | 0ca6a794-7a70-482a-8d84-e46693ba55e6 ==============================
+[0m16:49:01.720574 [info ] [MainThread]: Running with dbt=1.7.0
+[0m16:49:01.721644 [debug] [MainThread]: running dbt with arguments {'use_colors': 'True', 'use_experimental_parser': 'False', 'profiles_dir': 'C:\\Users\\VKY\\.dbt', 'printer_width': '80', 'introspect': 'True', 'log_format': 'default', 'partial_parse': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'log_cache_events': 'False', 'quiet': 'False', 'warn_error': 'None', 'target_path': 'None', 'indirect_selection': 'eager', 'debug': 'False', 'static_parser': 'True', 'no_print': 'None', 'send_anonymous_usage_stats': 'True', 'version_check': 'True', 'invocation_command': 'dbt init', 'cache_selected_only': 'False', 'log_path': 'logs', 'write_json': 'True', 'fail_fast': 'False'}
+[0m16:49:01.723381 [warn ] [MainThread]: [ConfigFolderDirectory]: Unable to parse dict {'dir': WindowsPath('C:/Users/VKY/.dbt')}
+[0m16:49:01.723856 [info ] [MainThread]: Creating dbt configuration folder at 
+[0m16:49:17.256203 [debug] [MainThread]: Starter project path: V:\Vicky\DE Project\ecommerce-lakehouse\venv\Lib\site-packages\dbt\include\starter_project
+[0m16:49:17.281381 [info ] [MainThread]: 
+Your new dbt project "ecommerce_dbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m16:49:17.282363 [info ] [MainThread]: Setting up your profile.
+[0m16:53:48.925137 [info ] [MainThread]: Profile ecommerce_dbt written to C:\Users\VKY\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m16:53:49.016897 [debug] [MainThread]: Command `dbt init` succeeded at 16:53:49.011025 after 287.35 seconds
+[0m16:53:49.032169 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000187186AC9D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000187186379B0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001871865A360>]}
+[0m16:53:49.046992 [debug] [MainThread]: Flushing usage events
+[0m16:57:10.396339 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000224D00F78C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000224D362FED0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000224D362FB10>]}
+
+
+============================== 16:57:10.406240 | ca813888-0e0d-4c9d-8bf6-1f5d2deadcc8 ==============================
+[0m16:57:10.406240 [info ] [MainThread]: Running with dbt=1.7.0
+[0m16:57:10.407534 [debug] [MainThread]: running dbt with arguments {'use_colors': 'True', 'use_experimental_parser': 'False', 'profiles_dir': 'C:\\Users\\VKY\\.dbt', 'printer_width': '80', 'partial_parse': 'True', 'log_format': 'default', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'log_cache_events': 'False', 'no_print': 'None', 'warn_error': 'None', 'target_path': 'None', 'debug': 'False', 'indirect_selection': 'eager', 'static_parser': 'True', 'quiet': 'False', 'send_anonymous_usage_stats': 'True', 'version_check': 'True', 'invocation_command': 'dbt init', 'cache_selected_only': 'False', 'log_path': 'logs', 'write_json': 'True', 'fail_fast': 'False'}
+[0m16:57:16.914364 [error] [MainThread]: Encountered an error:
+
+[0m16:57:16.918683 [error] [MainThread]: Traceback (most recent call last):
+  File "V:\Vicky\DE Project\ecommerce-lakehouse\venv\Lib\site-packages\dbt\cli\requires.py", line 90, in wrapper
+    result, success = func(*args, **kwargs)
+                      ~~~~^^^^^^^^^^^^^^^^^
+  File "V:\Vicky\DE Project\ecommerce-lakehouse\venv\Lib\site-packages\dbt\cli\requires.py", line 75, in wrapper
+    return func(*args, **kwargs)
+  File "V:\Vicky\DE Project\ecommerce-lakehouse\venv\Lib\site-packages\dbt\cli\main.py", line 515, in init
+    results = task.run()
+  File "V:\Vicky\DE Project\ecommerce-lakehouse\venv\Lib\site-packages\dbt\task\init.py", line 322, in run
+    project_name = self.get_valid_project_name()
+  File "V:\Vicky\DE Project\ecommerce-lakehouse\venv\Lib\site-packages\dbt\task\init.py", line 276, in get_valid_project_name
+    name = click.prompt("Enter a name for your project (letters, digits, underscore)")
+  File "V:\Vicky\DE Project\ecommerce-lakehouse\venv\Lib\site-packages\click\termui.py", line 218, in prompt
+    value = prompt_func(prompt)
+  File "V:\Vicky\DE Project\ecommerce-lakehouse\venv\Lib\site-packages\click\termui.py", line 201, in prompt_func
+    raise Abort() from None
+click.exceptions.Abort
+
+[0m16:57:16.920255 [debug] [MainThread]: Command `dbt init` failed at 16:57:16.920050 after 6.63 seconds
+[0m16:57:16.920695 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000224D257C9D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000224D365A690>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000224D367CE20>]}
+[0m16:57:16.921131 [debug] [MainThread]: Flushing usage events
